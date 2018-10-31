@@ -16,6 +16,7 @@ void main()
 #endif
 #if 1
        cout<<"This is a new line"<<endl;
+       cout<<"add new line."<<endl;
 #endif
 
 }
