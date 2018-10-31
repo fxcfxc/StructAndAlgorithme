@@ -14,6 +14,8 @@ void main()
 	StructAlgorithm::BuildInType::sizeofType();
 
 #endif
-
+#if 1
+       cout<<"This is a new line"<<endl;
+#endif
 
 }
