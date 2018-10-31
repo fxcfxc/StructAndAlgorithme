@@ -16,6 +16,8 @@ void main()
 #endif
 #if 1
        cout<<"This is a new line"<<endl;
+       cout<<"Add a new commit."<<endl;
+       cout<<"test commit."<<endl;
 #endif
 
 }
